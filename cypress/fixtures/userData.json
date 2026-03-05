@@ -1,0 +1,23 @@
+{
+  "userSuccess": {
+    "username": "Heath93",
+    "password": "s3cret"
+  },
+  "userFail": {
+    "username": "usuario_invalido",
+    "password": "s3cret"
+  },
+
+  "newUser": {
+    "firstName": "Cypress",
+    "lastName": "Iniciante",
+    "username": "cy_user_01",
+    "password": "senha123"
+},
+  "newUserInvalid": {
+    "firstName": "Cypress",
+    "lastName": "Invalid",
+    "username": "cy_user_01*",
+    "password": "senha123"
+}
+}

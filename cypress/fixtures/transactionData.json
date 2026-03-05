@@ -1,0 +1,15 @@
+{
+  "validTransfer": {
+    "amount": "50",
+    "note": "Pagamento de teste"
+  },
+  "insufficientFunds": {
+    "amount": "999999",
+    "note": "Teste sem saldo"
+  },
+  "newUserBank":{
+    "bankName": "Banco do RWA",
+    "routingNumber": "123456789",
+    "accountNumber": "554433221"
+  }
+}
